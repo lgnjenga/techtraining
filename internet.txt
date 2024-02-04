@@ -1,0 +1,80 @@
+# Internet Basics Summary
+
+## What is the Internet?
+
+- **Definition:**
+  - The internet is a global network of interconnected computers and devices, allowing the exchange of information and communication through standardized protocols.
+
+- **Key Points:**
+  - Worldwide connectivity.
+  - Utilizes a variety of technologies (wired, wireless).
+  - Enables access to vast resources, services, and information.
+
+## How Does Information Move on the Internet?
+
+- **Data Transmission:**
+  - Information is broken into packets for efficient transmission.
+  - Packets travel across various networks to reach their destination.
+  - Routers, switches, and servers play crucial roles in routing and forwarding packets.
+
+- **Protocols:**
+  - TCP/IP (Transmission Control Protocol/Internet Protocol) is fundamental.
+  - Data travels through layers (physical, data link, network, transport, application) using protocols.
+
+## How Do Networks Talk to Each Other and Protocols Involved?
+
+- **Networking:**
+  - Devices communicate using standardized protocols.
+  - Protocols define rules for data exchange and network management.
+  - Examples: TCP/IP, HTTP, FTP, DNS.
+
+- **Internet Protocols:**
+  - TCP ensures reliable data delivery.
+  - IP manages addressing and routing.
+  - HTTP governs web communication.
+
+## Relationship Between Packets, Routers, and Reliability
+
+- **Packets:**
+  - Information is divided into packets for transmission.
+  - Each packet contains data, source, destination information.
+
+- **Routers:**
+  - Routers direct packets between networks.
+  - Make decisions based on routing tables.
+
+- **Reliability:**
+  - Protocols like TCP ensure reliable delivery by acknowledging received packets.
+  - Redundancy and error-checking enhance reliability.
+
+## HTTP and HTML – How Are You Viewing This Webpage in Your Browser?
+
+- **HTTP (Hypertext Transfer Protocol):**
+  - Defines how web browsers and servers communicate.
+  - Utilizes a request-response model.
+
+- **HTML (Hypertext Markup Language):**
+  - Language for structuring content on the web.
+  - Renders webpages with text, images, links.
+
+## How is Information Transfer on the Internet Made Secure?
+
+- **Secure Sockets Layer (SSL) / Transport Layer Security (TLS):**
+  - Protocols for secure communication over a computer network.
+  - Encrypts data to ensure confidentiality.
+
+- **HTTPS (Hypertext Transfer Protocol Secure):**
+  - Combines HTTP and SSL/TLS.
+  - Encrypts data during transmission for secure browsing.
+
+## What is Cybersecurity and What are Some Common Internet Crimes?
+
+- **Cybersecurity:**
+  - Encompasses measures to protect systems, networks, and data from digital attacks.
+  - Includes technologies, processes, and practices.
+
+- **Common Internet Crimes:**
+  - Phishing: Deceptive attempts to acquire sensitive information.
+  - Malware: Software designed to harm or exploit systems.
+  - DDoS Attacks: Overwhelming a system with traffic to disrupt services.
+  - Identity Theft: Unauthorized use of personal information for fraudulent activities.
